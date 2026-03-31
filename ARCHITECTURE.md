@@ -1,4 +1,4 @@
-# Luxury Flash Drop Architecture (Aligned with test_app)
+# Luxury Flash Drop Architecture
 
 This project implements a high-performance "Flash Drop" feature, standardized to match the architectural patterns of `test_app`.
 
